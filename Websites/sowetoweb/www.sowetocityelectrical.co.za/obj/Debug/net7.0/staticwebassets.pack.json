@@ -1,0 +1,1137 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\www.sowetocityelectrical.co.za.bundle.scp.css",
+      "PackagePath": "staticwebassets\\www.sowetocityelectrical.co.za.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\188109227_111623144446473_6777629732165951313_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\188109227_111623144446473_6777629732165951313_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\236486797_156651473276973_8023059123798725697_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\236486797_156651473276973_8023059123798725697_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\236516876_156651653276955_2150432922179929067_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\236516876_156651653276955_2150432922179929067_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\236532428_156651603276960_22967269152799560_n.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\236532428_156651603276960_22967269152799560_n.png"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\236536715_156651419943645_4539519877413674196_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\236536715_156651419943645_4539519877413674196_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\236550917_156651689943618_4840589666214369552_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\236550917_156651689943618_4840589666214369552_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\236565700_156651383276982_2860064892141313295_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\236565700_156651383276982_2860064892141313295_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\236572523_156651776610276_8652122007083211745_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\236572523_156651776610276_8652122007083211745_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\236572626_156651639943623_8583843015642019740_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\236572626_156651639943623_8583843015642019740_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\236633709_156651586610295_4500258934420459521_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\236633709_156651586610295_4500258934420459521_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\239502965_161399862802134_6716628704224595340_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\239502965_161399862802134_6716628704224595340_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\241971771_175518608056926_2667182698462750477_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\241971771_175518608056926_2667182698462750477_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\242032710_176195241322596_5418139739930415684_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\242032710_176195241322596_5418139739930415684_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\242687100_181395584135895_2446099532937366564_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\242687100_181395584135895_2446099532937366564_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\243325610_185159443759509_5264741633450058856_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\243325610_185159443759509_5264741633450058856_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\243502573_185860330356087_1747314961724356747_n.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\243502573_185860330356087_1747314961724356747_n.png"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\243503278_185860370356083_6559340168548637145_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\243503278_185860370356083_6559340168548637145_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\243519896_185860350356085_1826536268440816886_n.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\243519896_185860350356085_1826536268440816886_n.png"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\243524334_185860430356077_8631023320732072258_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\243524334_185860430356077_8631023320732072258_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\304774741_400861988862525_2753930700520552543_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\304774741_400861988862525_2753930700520552543_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312157320_430779299204127_4040862297449183570_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312157320_430779299204127_4040862297449183570_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312203533_430779232537467_8460541102313221518_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312203533_430779232537467_8460541102313221518_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312230461_430778939204163_8242508596958638159_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312230461_430778939204163_8242508596958638159_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312236289_430781785870545_1409165202722812519_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312236289_430781785870545_1409165202722812519_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312255482_430781789203878_9141197204316969331_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312255482_430781789203878_9141197204316969331_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312265314_430777439204313_6884137780602150749_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312265314_430777439204313_6884137780602150749_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312267922_430781752537215_2876204266114930294_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312267922_430781752537215_2876204266114930294_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312273531_430778922537498_4382861578751333882_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312273531_430778922537498_4382861578751333882_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312313514_430779312537459_227318537494239471_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312313514_430779312537459_227318537494239471_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312315775_430781975870526_4790003517142565399_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312315775_430781975870526_4790003517142565399_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312323071_430779212537469_2055929083650716176_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312323071_430779212537469_2055929083650716176_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312325160_430781742537216_236238619161175412_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312325160_430781742537216_236238619161175412_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312327797_430779369204120_8184743842956579654_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312327797_430779369204120_8184743842956579654_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312328943_430781859203871_2936624639571514376_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312328943_430781859203871_2936624639571514376_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312331614_430781902537200_2769130209488981750_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312331614_430781902537200_2769130209488981750_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312333815_430782055870518_7869171328477564901_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312333815_430782055870518_7869171328477564901_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312335862_430779235870800_4811992214867157675_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312335862_430779235870800_4811992214867157675_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312342640_430778955870828_7609965867354745132_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312342640_430778955870828_7609965867354745132_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312351002_430781802537210_8728916462324642621_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312351002_430781802537210_8728916462324642621_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\312359819_430781965870527_4496877455238432087_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\312359819_430781965870527_4496877455238432087_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\313429427_440616474887076_8267179003146145387_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\313429427_440616474887076_8267179003146145387_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\313856843_440616428220414_4792676726263143160_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\313856843_440616428220414_4792676726263143160_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\313874146_440616374887086_1327789861861568588_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\313874146_440616374887086_1327789861861568588_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\313900750_440616371553753_748054111422399287_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\313900750_440616371553753_748054111422399287_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\313900858_440616388220418_1766546783241316209_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\313900858_440616388220418_1766546783241316209_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\313900858_440616478220409_4326530651797285922_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\313900858_440616478220409_4326530651797285922_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\313922478_440616418220415_905142579222981771_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\313922478_440616418220415_905142579222981771_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\316418534_461362352812488_5757416884164249669_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\316418534_461362352812488_5757416884164249669_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\316546952_461362679479122_5609204794316978615_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\316546952_461362679479122_5609204794316978615_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\316816833_461361919479198_1074497836127071444_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\316816833_461361919479198_1074497836127071444_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\316963254_461362629479127_8868373735573582264_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\316963254_461362629479127_8868373735573582264_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\316965100_461362556145801_7296241687126882113_n.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\316965100_461362556145801_7296241687126882113_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-12-19-32-421.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-12-19-32-421.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-12-20-48-385.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-12-20-48-385.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-12-20-55-670.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-12-20-55-670.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-12-22-38-405.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-12-22-38-405.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-12-22-49-564.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-12-22-49-564.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-12-23-57-312.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-12-23-57-312.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-12-28-11-133.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-12-28-11-133.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-12-28-21-148.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-12-28-21-148.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-12-28-31-767.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-12-28-31-767.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-12-29-30-710.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-12-29-30-710.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-12-30-29-368.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-12-30-29-368.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-12-35-57-720.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-12-35-57-720.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-12-38-49-384.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-12-38-49-384.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-00-13-072.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-00-13-072.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-00-49-474.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-00-49-474.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-01-20-496.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-01-20-496.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-01-50-737.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-01-50-737.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-03-47-441.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-03-47-441.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-03-51-709.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-03-51-709.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-05-02-892.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-05-02-892.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-09-01-821.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-09-01-821.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-20-53-846.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-20-53-846.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-20-56-835.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-20-56-835.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-21-46-711.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-21-46-711.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-26-55-861.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-26-55-861.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-28-58-650.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-28-58-650.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-30-16-762.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-30-16-762.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-30-26-710.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-30-26-710.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-30-49-579.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-30-49-579.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-30-59-490.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-30-59-490.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-33-10-434.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-33-10-434.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-33-15-711.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-33-15-711.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-33-32-629.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-33-32-629.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-33-45-197.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-33-45-197.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-34-02-572.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-34-02-572.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-34-12-475.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-34-12-475.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-35-54-164.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-35-54-164.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-36-47-326.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-36-47-326.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-36-49-396.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-36-49-396.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-37-03-569.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-37-03-569.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-38-19-264.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-38-19-264.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-41-02-101.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-41-02-101.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-41-28-783.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-41-28-783.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-43-33-472.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-43-33-472.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-43-44-175.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-43-44-175.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-44-01-468.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-44-01-468.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-47-03-816.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-47-03-816.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-47-28-705.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-47-28-705.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-09-28-13-47-54-053.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-09-28-13-47-54-053.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-10-39-10-293.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-10-39-10-293.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-10-39-21-696.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-10-39-21-696.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-10-39-58-589.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-10-39-58-589.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-10-40-21-190.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-10-40-21-190.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-10-41-50-269.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-10-41-50-269.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-10-50-18-965.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-10-50-18-965.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-10-52-04-992.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-10-52-04-992.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-10-52-14-532.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-10-52-14-532.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-10-53-17-103.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-10-53-17-103.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-10-55-52-447.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-10-55-52-447.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-10-57-26-610.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-10-57-26-610.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-10-58-33-048.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-10-58-33-048.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-03-14-425.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-03-14-425.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-04-27-157.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-04-27-157.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-06-18-348.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-06-18-348.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-07-15-695.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-07-15-695.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-07-18-889.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-07-18-889.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-07-20-309.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-07-20-309.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-07-36-321.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-07-36-321.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-07-55-791.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-07-55-791.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-08-42-895.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-08-42-895.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-08-54-562.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-08-54-562.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-09-49-184.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-09-49-184.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-09-58-164.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-09-58-164.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-10-06-673.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-10-06-673.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-17-25-609.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-17-25-609.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-17-43-351.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-17-43-351.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-18-03-808.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-18-03-808.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-18-32-622.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-18-32-622.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-19-01-340.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-19-01-340.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-20-29-310.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-20-29-310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-20-34-925.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-20-34-925.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-20-37-653.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-20-37-653.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-21-49-946.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-21-49-946.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-22-42-619.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-22-42-619.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-22-50-177.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-22-50-177.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-22-55-667.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-22-55-667.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-24-30-533.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-24-30-533.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-24-41-051.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-24-41-051.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-24-45-734.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-24-45-734.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-24-57-662.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-24-57-662.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-25-12-633.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-25-12-633.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-25-21-157.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-25-21-157.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-25-33-415.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-25-33-415.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-25-45-085.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-25-45-085.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-25-48-666.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-25-48-666.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-26-41-746.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-26-41-746.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-33-49-805.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-33-49-805.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-33-54-359.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-33-54-359.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-34-27-468.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-34-27-468.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-35-10-573.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-35-10-573.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-36-12-721.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-36-12-721.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-37-10-063.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-37-10-063.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-37-16-560.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-37-16-560.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-38-15-800.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-38-15-800.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-38-22-521.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-38-22-521.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-38-35-593.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-38-35-593.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-38-54-741.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-38-54-741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-44-24-968.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-44-24-968.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-11-59-57-368.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-11-59-57-368.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-12-01-19-729.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-12-01-19-729.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-12-01-20-070.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-12-01-20-070.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\IMG_2023-10-01-12-02-17-559.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\IMG_2023-10-01-12-02-17-559.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\ipad.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\ipad.png"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\map-image.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\map-image.png"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\navbar-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\navbar-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\about\\soweto_pp.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\soweto_pp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\bg-masthead.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-masthead.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\bg-signup.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-signup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\close-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\close-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\demo-image-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo-image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\demo-image-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo-image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\fridge_bb.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\fridge_bb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\header-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\header-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\icon\\Contacts.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\Contacts.png"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\icon\\Favorites.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\Favorites.png"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\icon\\Refresh.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\Refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\icon\\Services.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\Services.png"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\icon\\enquire_uu.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\enquire_uu.png"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\icon\\home_rr.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\home_rr.png"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\icon\\icons8_delete.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\icons8_delete.ico"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\icon\\icons8_delete_16.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\icons8_delete_16.png"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\icon\\icons8_delete_32.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\icons8_delete_32.png"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\icon\\icons8_full_screen.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\icons8_full_screen.ico"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\icon\\icons8_full_screen_16.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\icons8_full_screen_16.png"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\icon\\icons8_full_screen_32.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\icons8_full_screen_32.png"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\icon\\icons8_minimize_window.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\icons8_minimize_window.ico"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\icon\\icons8_minimize_window_16.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\icons8_minimize_window_16.png"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\icon\\icons8_minimize_window_32.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\icons8_minimize_window_32.png"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\icon\\info_ii.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\info_ii.png"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\logos\\creative-market.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\creative-market.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\logos\\designmodo.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\designmodo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\logos\\envato.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\envato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\logos\\themeforest.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\themeforest.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\portfolio\\01-full.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\01-full.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\portfolio\\01-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\01-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\portfolio\\02-full.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\02-full.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\portfolio\\02-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\02-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\portfolio\\03-full.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\03-full.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\portfolio\\03-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\03-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\portfolio\\04-full.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\04-full.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\portfolio\\04-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\04-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\portfolio\\05-full.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\05-full.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\portfolio\\05-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\05-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\portfolio\\06-full.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\06-full.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\portfolio\\06-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\06-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\img\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\mail\\contact_me.js",
+      "PackagePath": "staticwebassets\\assets\\mail\\contact_me.js"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\mail\\contact_me.php",
+      "PackagePath": "staticwebassets\\assets\\mail\\contact_me.php"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\assets\\mail\\jqBootstrapValidation.js",
+      "PackagePath": "staticwebassets\\assets\\mail\\jqBootstrapValidation.js"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Prof Mosa Moabi\\Documents\\DEVELOPMENT\\hos1stDevelopment\\hoscollaborationteam\\Websites\\www.sowetocityelectrical.co.za\\www.sowetocityelectrical.co.za\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.www.sowetocityelectrical.co.za.props",
+      "PackagePath": "build\\www.sowetocityelectrical.co.za.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.www.sowetocityelectrical.co.za.props",
+      "PackagePath": "buildMultiTargeting\\www.sowetocityelectrical.co.za.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.www.sowetocityelectrical.co.za.props",
+      "PackagePath": "buildTransitive\\www.sowetocityelectrical.co.za.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.www.sowetocityelectrical.co.za.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
