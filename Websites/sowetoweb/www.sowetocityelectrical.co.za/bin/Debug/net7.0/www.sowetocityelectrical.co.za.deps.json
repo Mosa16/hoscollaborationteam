@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "www.sowetocityelectrical.co.za/1.0.0": {
+        "runtime": {
+          "www.sowetocityelectrical.co.za.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "www.sowetocityelectrical.co.za/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

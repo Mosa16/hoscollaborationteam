@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\www.sowetocityelectrical.co.za.props" />
+</Project>
